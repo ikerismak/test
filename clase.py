@@ -1,5 +1,6 @@
 
 # La clase ropa con solo un metodo que recibe esos dos argumentos como indica el problema
+#El archivo principal es el que hace las pruebas
 
 class Ropa:
 

@@ -25,3 +25,11 @@
 #     Compras menores a $1000 de ropa de temporada tendrá un 5% de descuento.
 #     Compras de $1000 a $6000 de ropa de temporada tendrá un 10% de descuento.
 #     Montos excedentes a $5000 en ropa fuera de temporada y $6000 de temporada ya no reciben descuento.
+
+#Casos de prueba lógicos y concretos
+#• La especificación de los casos de prueba consiste en dos pasos:
+#• Casos de prueba lógicos. Consiste en la definición lógica de los casos de prueba. La base de pruebas
+#guía la selección de los casos de prueba lógicos. Los casos pueden ser determinados a partir de las
+#especificaciones de los objetos de prueba.
+#• Casos de prueba concretos. Esto significa que las entradas para los casos de prueba han sido
+#seleccionadas
